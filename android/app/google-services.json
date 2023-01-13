@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "675680750592",
+    "project_id": "lojavirtual2-ddbda",
+    "storage_bucket": "lojavirtual2-ddbda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675680750592:android:8af3787b657a9f152a9ce5",
+        "android_client_info": {
+          "package_name": "br.com.olhachei.loja_virtual2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675680750592-v272ovej4aoc9ld5kq03t0vn16qphkkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJGdhN9mS1dr6uC1AneXe1xqOynAJVVJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675680750592-v272ovej4aoc9ld5kq03t0vn16qphkkj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675680750592-qgouhbi5as2gefdvh1bum6ifle75c5oo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.olhachei.lojaVirtual2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
